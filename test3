@@ -4,3 +4,4 @@ yum update --exclude=kernel* -y
 rpm -q puppet-agent; rpm -e puppet-agent
 DOGS
 CATS
+Apple1
